@@ -1,2 +1,2 @@
 # Nervos
-Hackathon 0) Local CKB Node &amp; CKB Index
+Gitcoin: 0) Setup a Local CKB Node and CKB Indexer for the Testnet
